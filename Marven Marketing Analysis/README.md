@@ -13,4 +13,5 @@ customer profiles, product preferences, campaign successes/failures, and channel
 # Skills Used to Achieved Insights
 * Power Query for data cleaning.
 * Pivot tables used to summarize, analyze, explore, and present summary data.
+
   
