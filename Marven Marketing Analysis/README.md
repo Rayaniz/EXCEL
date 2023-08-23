@@ -2,7 +2,7 @@
 
 The dataset contains marketing campaign data of 2,240 customers of Maven Marketing, including
 customer profiles, product preferences, campaign successes/failures, and channel performance.
-You can interact with the [dashboard] for more insights.
+You can interact with the [dashboard](www.google.com) for more insights.
 
 # Recommended Analysis
 * Factors that are significantly related to the number of web purchases?
